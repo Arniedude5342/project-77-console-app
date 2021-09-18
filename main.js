@@ -1,0 +1,18 @@
+var firstname = "Arnav";
+console.log(firstname);
+var lastname = "Malhotra";
+console.log(lastname);
+var fullname = firstname.concat(lastname);
+console.log(fullname);
+var a = 5;
+console.log(a);
+var b = 99;
+console.log(b); 
+var c = 10;
+console.log(c);
+var d = 9;
+console.log(d);
+var add = a + b;
+console.log(add);
+var multiply = c * d;
+console.log(multiply);
